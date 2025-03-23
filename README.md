@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently learning Node.js, express and restful api
+I'm currently learning Python & C.
 
 
 ## 🌐 Socials:
